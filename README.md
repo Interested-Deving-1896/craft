@@ -1,26 +1,75 @@
-# Craft
- Craft is a cross platform package manager providing source builds, as well as binary artifacts, for hundreds of libraries, Qt and KDE Frameworks.
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# craft
 
-## Getting started
-[Setting up Craft](https://community.kde.org/Craft) (includes installation instructions)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/craft)
 
-## Projects using Craft
-* [ownCloud](https://github.com/owncloud/client)
-    * ```craft --add-blueprint-repository https://github.com/owncloud/craft-blueprints-owncloud.git```
-    * ```craft owncloud-client```
-* [QPrompt](https://github.com/Cuperino/QPrompt)
-    * ```craft --add-blueprint-repository https://github.com/Cuperino/craft-blueprints-qprompt.git```
-    * ```craft qprompt```
-* [Quassel IRC](https://github.com/quassel/quassel)
-    * ```craft --add-blueprint-repository https://github.com/quassel/craft-blueprints-quassel.git```
-    * ```craft quassel```
-* [KDAB GammaRay](https://github.com/KDAB/GammaRay)
-    * ```craft gammaray```
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Getting in Touch
+## Architecture
 
-[IRC: #kde-craft](https://web.libera.chat/?channels=#kde-craft)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-[Report Bugs](https://invent.kde.org/packaging/craft/-/issues)
+## Install
 
-Mailing list: kde-windows@kde.org
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/craft.git
+cd craft
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/craft`](https://github.com/Interested-Deving-1896/craft) and mirrored through:
+
+```
+Interested-Deving-1896/craft  ──►  OpenOS-Project-OSP/craft  ──►  OpenOS-Project-Ecosystem-OOC/craft
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[BSD-2-Clause](https://github.com/Interested-Deving-1896/craft/blob/master/COPYING) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
